@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamari_Ejercicio_1_4.Android", "Xamari_Ejercicio_1_4.Android\Xamari_Ejercicio_1_4.Android.csproj", "{32623873-27B9-460D-9F9C-35E16B7328D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamari_Ejercicio_1_4", "Xamari_Ejercicio_1_4\Xamari_Ejercicio_1_4.csproj", "{762B7469-2F67-477B-B685-89B9674D6E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32623873-27B9-460D-9F9C-35E16B7328D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32623873-27B9-460D-9F9C-35E16B7328D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32623873-27B9-460D-9F9C-35E16B7328D2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{32623873-27B9-460D-9F9C-35E16B7328D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32623873-27B9-460D-9F9C-35E16B7328D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32623873-27B9-460D-9F9C-35E16B7328D2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{762B7469-2F67-477B-B685-89B9674D6E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762B7469-2F67-477B-B685-89B9674D6E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762B7469-2F67-477B-B685-89B9674D6E07}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{762B7469-2F67-477B-B685-89B9674D6E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762B7469-2F67-477B-B685-89B9674D6E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{762B7469-2F67-477B-B685-89B9674D6E07}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9DD26D4-62EB-4891-BF39-1AC89B1B7791}
+	EndGlobalSection
+EndGlobal
